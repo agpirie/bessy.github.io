@@ -1,0 +1,6 @@
+{
+  "name": "Bessy.GitHub.io",
+  "tagline": "Bess' Website",
+  "body": "<html>\r\n    \r\n    <head>\r\n        \r\n        <title>Bess - Home</title>\r\n        \r\n        <link rel=\"SHORTCUT icon\" href=\"icon.png\">\r\n        \r\n        <link rel=\"stylesheet\" href=\"styles.css\" type=\"text/css\">\r\n        \r\n    </head>\r\n    \r\n    <body>\r\n        <center>\r\n            \r\n        <div class=\"navbar\">\r\n        \r\n            <a href=\"index.html\" style=\"color: black; text-decoration: bold;\"><strong><h2 class=\"navlink\">Home</h2></strong></a>\r\n            <a href=\"blog.html\" style=\"color: gray; text-decoration: bold;\"><strong><h2 class=\"navlink\">Blog</h2></strong></a>\r\n            \r\n        </div>\r\n            \r\n            <div class=\"separater\"></div>\r\n            \r\n            <div class=\"block1\">\r\n            \r\n                <img src=\"icon.png\" width=\"200\">\r\n                \r\n                <h3>Welcome to the website of<br><font class=\"bess\">Bess </font></h3>\r\n                \r\n            </div>\r\n            \r\n        </center>\r\n        \r\n    </body>\r\n    \r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
