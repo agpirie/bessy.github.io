@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+body {
+    font-family: Open Sans;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    border-radius: 10px;
+    background-color: azure;
+    width: 80%;
+    height: 75px;
+    position: center;
+}
+
+.navlink {
+    float: left;
+    padding-left: 30px;
+}
+.navlink:hover {
+    float: left;
+    padding-left: 30px;
+    text-decoration: underline;
+    -webkit-transition: 0.5s ease-in-out;
+}
+
+.block1 {
+    background-color: azure;
+    width: 80%;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+.separater {
+    padding: 25px;
+}
+
+.bess {
+    font-size: 90
+}
+
+.blogpost {
+    width: 80%;
+    background-color: azure;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.blogtitle {
+}
+
+.blogdate {
+    float: right;
+    padding-right: 10px;
+}
+
+.blogtext {
+    padding-right: 5px;
+    padding-left: 5px;
+}
